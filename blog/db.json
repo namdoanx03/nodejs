@@ -1,0 +1,10 @@
+{
+    "courses": [
+        {
+        "id":1,
+        "name": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu ",
+        "description":"kiến thức cơ bản dành cho người mới, không phân biệt bạn theo Front-end, Back-end hay Devops"
+        }
+    ]
+
+}
